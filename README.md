@@ -1,1 +1,7 @@
-"# fastapi-crash_course" 
+# Пет-проект на Python за 50 минут
+
+
+Этот проект написан по видео с канала [__Артём Шумейко__](https://www.youtube.com/@artemshumeiko) для ознакомления с основами библиотеки FastAPI
+
+Процесс написания кода и последующего деплоя на сервер можно посмотреть по ссылке:
+https://youtu.be/gBfkX9H3szQ?si=jEYZvzj6tKYZ27Mn
